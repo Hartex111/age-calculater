@@ -1,2 +1,2 @@
-# age-calculater
-ndex.html
+# age-calculator
+index.html
